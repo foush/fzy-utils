@@ -3,7 +3,7 @@
 Utility classes which can be re-used across applications. For those who find themselves writing the same types of utility classes over and over.
 
 # Installation
-`composer require fousheezy/utils`
+`composer require fousheezy/fzy-utils`
 
 # Documentation
 
