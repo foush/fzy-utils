@@ -1,0 +1,19 @@
+{
+    "name": "fousheezy/fzy-utils",
+    "description": "Utility package for basic classes used in nearly every project.",
+    "type": "lib",
+    "require-dev": {
+        "phpunit/phpunit": "^4.8"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "John Foushee",
+            "email": "johnfoushee@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {"FzyUtils\\": "src", "FzyUtilsTest": "test"}
+    }
+}
